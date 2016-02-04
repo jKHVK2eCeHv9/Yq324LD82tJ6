@@ -1,0 +1,20 @@
+body {background:#efefef;}
+p {line-height:20px;}
+table {width:100%;background:#fff;font-size:12px;}
+.td-head {background:#ccc;text-align:center;font-weight:bold;}
+.td-left {background:#efefef;}
+.td-center {background:#efefef;text-align:center;}
+.td-strong {font-weight:bold;}
+.qualifying-line {border-bottom:2px solid #ff0000;}
+.font-small {font-size:12px;}
+.font-xsmall {font-size:10px;}
+.capitalize {text-transform:capitalize;}
+.ui-body-e {background:none;}
+.error {color:#900;}
+#logo {text-align:center;margin-bottom:20px;border-bottom:1px solid #ccc;padding-bottom:15px;}
+#logo img {margin-left:20px;}
+#copyright {text-align:center;font-size:11px;color:#999;margin-top:20px;border-top:1px solid #ccc;padding-top:20px;}
+.ui-body-e {border:none;}
+.ui-listview-filter {margin:0;}
+.season {background:#fff;border:1px solid #ccc;padding:0 15px;margin-bottom:15px;}
+.news {background:#fff;border:1px solid #ccc;padding:0 15px;margin-bottom:15px;}
